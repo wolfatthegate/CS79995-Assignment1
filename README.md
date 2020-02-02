@@ -9,7 +9,8 @@ Program File - matrixMultiply.cu
 By assigning the SIZE and THREADS at the beginning of the program, 
 one can adjust the size of the matrices. The number of SIZE/THREADS
 should be an integer. For example, if the size of a matrix is 32 then, 
-the number of threads should be 4, 8, or 16.. 
+the number of threads should be 4, 8, or 16.. The comparison between 
+GPU and CPU computing times are as followed. 
 
 |Matrix Size    | THREADS | GPU time (ms) |	CPU time (ms) |
 |---------------|---------|---------------|-------------------|
