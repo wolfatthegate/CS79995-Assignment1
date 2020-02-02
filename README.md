@@ -1,8 +1,8 @@
 # CS79995-Assignment1
-## Name - Waylon Luo
-## Instructor:  Qiang Guan 
-## CS 79995 GPU Parallel Process 
-## Assignment 1 - Report 
+### Name - Waylon Luo
+### Instructor:  Qiang Guan 
+### CS 79995 GPU Parallel Process 
+### Assignment 1 - Report 
 
 Program File - matrixMultiply.cu
 
